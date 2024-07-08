@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RainfallPattern/static/css/main.f26bfd4e.css",
+    "main.js": "/RainfallPattern/static/js/main.64b97ff2.js",
+    "static/js/453.29054542.chunk.js": "/RainfallPattern/static/js/453.29054542.chunk.js",
+    "index.html": "/RainfallPattern/index.html",
+    "main.f26bfd4e.css.map": "/RainfallPattern/static/css/main.f26bfd4e.css.map",
+    "main.64b97ff2.js.map": "/RainfallPattern/static/js/main.64b97ff2.js.map",
+    "453.29054542.chunk.js.map": "/RainfallPattern/static/js/453.29054542.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26bfd4e.css",
+    "static/js/main.64b97ff2.js"
+  ]
+}
