@@ -1,0 +1,44 @@
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px; 
+  background-color: antiquewhite;
+  height:100vh;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #333;
+  box-sizing: border-box;
+  background-color: black;
+  transition: background-color 0.2s; 
+}
+
+
+@media (max-width: 600px) {
+  .cell {
+    width: 15px;
+    height: 15px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1200px) {
+  .cell {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+@media (min-width: 1201px) {
+  .cell {
+    width: 20px;
+    height: 20px;
+  }
+}
